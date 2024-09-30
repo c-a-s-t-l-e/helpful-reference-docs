@@ -5,3 +5,5 @@
 </p>
 
 This is a repo of docs I've made that I use for my own reference as well as for others'.
+
+Feel free to add on to these and note recommendations for future work.
