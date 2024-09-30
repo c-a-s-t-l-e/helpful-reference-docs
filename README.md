@@ -1,7 +1,5 @@
 # Helpful Reference Docs
 
-![docs-logo](/images/docs-logo-2.png)
-
 <p align="center">
   <img src="/images/docs-logo-2.png" />
 </p>
