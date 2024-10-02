@@ -20,8 +20,10 @@ After making changes to the files, you need to stage and commit them:
 ```
 git add .
 git commit -m "Description of the changes made"
-git add . stages all changes, and git commit commits them with a message.
 ```
+
+git add . stages all changes, and git commit commits them with a message.
+
 
 ## 4. Push the branch and create a pull request
 Push the changes to the remote repository:
