@@ -23,12 +23,12 @@ In Linux/Mac, run this:
 ```
 source <name-of-your-virtual-environment>/bin/activate  
 ```
-## 4. Install ipykernel **While Inside the Virtual Environment**
+## 4. Install ipykernel ^While Inside the Virtual Environment^
 
 ```
 pip install ipykernel     
 ```
-# 5. Add Your Virtual Environment as a Kernel in Jupyterlab
+## 5. Add Your Virtual Environment as a Kernel in Jupyterlab
 
 ```
 python -m ipykernel install --user --name=<name-of-your-virtual-environment>
@@ -42,13 +42,13 @@ python -m ipykernel install --user --name=<name-of-your-virtual-environment>
 deactivate
 ```
 
-# If You Want To See Your Kernels in Jupyterlab
+## If You Want To See Your Kernels in Jupyterlab
 
 ```
 jupyter kernelspec list
 ```
 
-# If You Want to Remove a Kernel from Jupyterlab
+## If You Want to Remove a Kernel from Jupyterlab
 
 ```
 jupyter kernelspec uninstall <name-of-your-virtual-environment>
