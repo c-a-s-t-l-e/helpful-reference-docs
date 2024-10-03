@@ -36,7 +36,9 @@ python -m ipykernel install --user --name=<name-of-your-virtual-environment>
 
 ## Addtional Notes
 
-# If you want to deactivate the virtual environment while you are in it
+---
+
+## If you want to deactivate the virtual environment while you are in it
 
 ```
 deactivate
