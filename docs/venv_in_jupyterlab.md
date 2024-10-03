@@ -12,7 +12,7 @@ pip install jupyterlab
 python -m venv <name-of-your-virtual-environment>   
 ```
 
-## 3. Activate the Virtual Environment
+## 3. Activate the virtual environment
 
 In Windows, run this:
 ```
