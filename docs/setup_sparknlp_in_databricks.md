@@ -6,9 +6,9 @@ Go to Compute -> Your Cluster -> Libraries -> Install new -> Add sparknlp python
 
 *If you'd like to do speech-to-text, you can add the librosa python package as well.*
 
-!()[/images/sparknlp_db_install_1.png]
-!()[/images/sparknlp_db_install_2.png]
-!()[images/sparknlp_db_install_3.png]
+![](/images/sparknlp_db_install_1.png)
+![](/images/sparknlp_db_install_2.png)
+![](images/sparknlp_db_install_3.png)
 
 ## 2. Test your install in a notebook with the given code and your cluster
 
