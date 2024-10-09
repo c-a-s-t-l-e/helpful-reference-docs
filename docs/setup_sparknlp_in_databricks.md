@@ -4,11 +4,13 @@
 
 Go to Compute -> Your Cluster -> Libraries -> Install new -> Add sparknlp python package and sparknlp maven coordinates
 
-*If you'd like to do speech-to-text, you can add the librosa python package as well.*
+The most recent maven coordinates can be found [here](https://mvnrepository.com/artifact/com.johnsnowlabs.nlp/spark-nlp).
 
 ![](/images/sparknlp_db_install_1.png)
 
 ![](/images/sparknlp_db_install_2.png)
+
+*If you'd like to do speech-to-text, you can add the librosa python package as well.*
 
 ## 2. Test your install in a notebook with the given code and your cluster
 
