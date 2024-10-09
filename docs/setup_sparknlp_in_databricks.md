@@ -1,4 +1,4 @@
-# How To Set-Up SparkNLP in Databricks
+# How To Set-Up Spark NLP in Databricks
 
 ## 1. Install the necessary libraries in your cluster
 
@@ -35,4 +35,4 @@ data = spark.createDataFrame([["I like cheese when it's in the fridge."]]).toDF(
 
 result = pipeline.fit(data).transform(data)
 ```
-*Credit for the code can be found in the sparknlp docs [here](https://sparknlp.org/demo).*
+*The original code can be found in the Spark NLP docs [here](https://sparknlp.org/demo).*
