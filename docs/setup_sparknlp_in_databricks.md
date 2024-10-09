@@ -1,12 +1,12 @@
 # How To Set-Up SparkNLP in Databricks
 
-## 1. Install the necessary libraries
+## 1. Install the necessary libraries in your cluster
 
 Go to Compute -> Your Cluster -> Libraries -> Install new -> Add sparknlp python package and sparknlp maven coordinates
 
 *If you'd like to do speech-to-text, you can add the librosa python package as well.*
 
-## 2. Test your install in a notebook with the given code
+## 2. Test your install in a notebook with the given code and your cluster
 
 ```
 from sparknlp.base import Pipeline, DocumentAssembler
