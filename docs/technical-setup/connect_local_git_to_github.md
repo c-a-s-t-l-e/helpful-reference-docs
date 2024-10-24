@@ -2,11 +2,11 @@
 
 ## 1. Create a Github Repo and Copy the URL
 
-
+Fairly self-explanatory.
 
 ## 2. Create a Folder On Your Machine
 
-
+Also fairly self-explanatory.
 
 ## 3. Initialize Git In Your Local Folder
 
