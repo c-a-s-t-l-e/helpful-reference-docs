@@ -4,7 +4,7 @@
 
 Fairly self-explanatory.
 
-## 2. Create a Folder On Your Machine
+## 2. Create a Folder On Your Local Machine
 
 Also fairly self-explanatory.
 
